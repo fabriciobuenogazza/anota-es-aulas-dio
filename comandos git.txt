@@ -1,0 +1,5 @@
+ls- mostrar arquivos do diretorio
+cd (nome da pasta)- entrar na pasta
+ctrl + l- limpar o terminal
+mkdir- criar pasta
+git init- inicia git
