@@ -3,3 +3,4 @@ cd (nome da pasta)- entrar na pasta
 ctrl + l- limpar o terminal
 mkdir- criar pasta
 git init- inicia git
+git push- enviar pasta para github pelo git
